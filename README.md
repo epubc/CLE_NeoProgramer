@@ -17,7 +17,8 @@ Chương trình cho phép:
 ## Screenshot
 
 *(Thêm ảnh giao diện tại đây)*
-
+![Giao diện chính đơn giản.]](https://github.com/epubc/CLE_NeoProgramer/blob/main/main.jpg)
+![Edit thông tin.]](https://github.com/epubc/CLE_NeoProgramer/blob/main/edit.jpg)
 ```text
 GUI
  ├── Category
